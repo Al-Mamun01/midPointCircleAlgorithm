@@ -38,7 +38,7 @@ void main(){
     
         if (x==y)
         {
-            plot_pts(xc,yc,xy)   //call the plot point
+            plot_pts(xc,yc,xy);  //call the plot point
         }
         getch();          //finished turbo c
         closegraph();
